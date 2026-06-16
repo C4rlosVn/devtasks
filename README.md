@@ -15,7 +15,7 @@ A full-stack task manager built with **Next.js**, **Prisma**, **SQLite**, and **
 - **Frontend**: Next.js 15, React 19, Tailwind CSS
 - **API**: Next.js Route Handlers (REST)
 - **Database**: SQLite via Prisma ORM
-- **Language**: TypeScript
+- **Language**: TS
 
 ### Getting Started
 
